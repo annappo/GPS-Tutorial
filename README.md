@@ -6,7 +6,7 @@ This tutorial has two objectives:
 
 - On the one hand, it is intended as an introduction to satellite navigation using the *Global Positioning System* (GPS). The programming of a *Software Defined Radio* (SDR) is used to demonstrate how the radio signals sent by the GPS satellites can be received and processed. For this purpose, the text is structured in the style of an *interactive tutorial* (JupyterLab notebook) with short explanations and code examples.
   
-- On the other hand, the text shall serve as documentation of a Python program for real-time GPS tracking. The code is developed and commented on the basis of many examples and then integrated as Python classes into the scripts. The final program for real-time positioning and tracking has been published separately on Github: [https://github.com/annappo/GPS-SDR-Receiver](#https://github.com/annappo/GPS-SDR-Receiver).  
+- On the other hand, the text shall serve as documentation of a Python program for real-time GPS tracking. The code is developed and commented on the basis of many examples and then integrated as Python classes into the scripts. The final program for real-time positioning and tracking has been published separately on Github: [https://github.com/annappo/GPS-SDR-Receiver](https://github.com/annappo/GPS-SDR-Receiver "GPS-SDR-Receiver").  
 
 The tutorial is aimed in particular at people who
 
