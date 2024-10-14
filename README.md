@@ -1,7 +1,6 @@
 # Tutorial: Real-Time GPS Tracking using RTL-SDR and Python
 
 ## Introduction
----
 
 This tutorial has two objectives: 
 
@@ -20,7 +19,6 @@ If you are not familiar with *JupyterLab*, you can start with the PDF version of
 
 
 ## Installation
----
 
 The files and folders of the project are organized in the following way (dots indicate a list of files):
 
@@ -53,7 +51,6 @@ Besides a JupyterLab installation, the following modules are required for runnin
 If these modules are not yet available on your system, it is recommended to use either an Anaconda distribution or to create a virtual environment for installation. Depending on the operating system or Python distribution used, you may encounter problems when installing the RTL-SDR driver. You can find help on this and further information for the software installation in the appendix of the tutorial.
 
 ## Abstract
----
 
 The instrumental basis of the tutorial is a low-budget USB stick that was originally developed for the reception of radio programs and television via DVB-T (Digital Video Broadcasting - Terrestrial). Its main function is to receive a radio signal at an adjustable frequency, digitize it and then transfer the data to a computer via the USB interface. All subsequent steps, in particular the decoding of the information contained in the data, are performed by a computer instead of using analog electronic components of a conventional radio. This approach is known as *Software Defined Radio* (SDR). 
 
