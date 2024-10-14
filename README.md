@@ -59,25 +59,25 @@ The focus of the tutorial is on the step-by-step development of efficient Python
 
 ### Table of Contents (short version)
 
-* [GPS navigation](#GPS-navigation)
-    * [Basics](#Basics)
-    * [Data reception](#Data-reception)
-    * [Data decoding](#Data-decoding)
-    * [Positioning](#Positioning)
-* [GPS tracking using an RTL-SDR](#GPS-tracking-using-an-RTL-SDR)
-    * [First steps](#First-steps)
-    * [Noise analysis](#Noise-analysis)
-    * [Observation of single satellites](#Observation-of-single-satellites)
-    * [Observation of many satellites](#Observation-of-many-satellites)
-* [Real-time tracking](#Real-time-tracking)
-    * [Code modifications](#Code-modifications)
-    * [Graphical User Interface](#Graphical-User-Interface)
-    * [Installation](#Installation)
-* [Appendix](#Appendix)
-    * [RTL-SDR: Features and accessories](#RTL-SDR:-Features-and-accessories)
-    * [Python and JupyterLab](#Python-and-JupyterLab)
-    * [Computer performance](#Computer-performance)
-    * [Mathematical additions](#Mathematical-additions)
-* [Notes](#Notes)
-* [References](#References)
+* GPS navigation
+    * Basics
+    * Data reception
+    * Data decoding
+    * Positioning
+* GPS tracking using an RTL-SDR
+    * First steps
+    * Noise analysis
+    * Observation of single satellites
+    * Observation of many satellites
+* Real-time tracking
+    * Code modifications
+    * Graphical User Interface
+    * Installation
+* Appendix
+    * RTL-SDR: Features and accessories
+    * Python and JupyterLab
+    * Computer performance
+    * Mathematical additions
+* Notes
+* References
 
