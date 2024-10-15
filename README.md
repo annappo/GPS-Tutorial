@@ -27,6 +27,7 @@ The files and folders of the project are organized in the following way (dots in
     ├── LICENSE
     ├── requirements.txt
     ├── GPS-Tutorial.ipynb
+    ├── GPS-Tutorial.pdf
     ├── data
     │   └── ...
     ├── figures
