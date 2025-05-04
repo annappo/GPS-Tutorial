@@ -4,7 +4,7 @@
 
 This tutorial has two objectives: 
 
-- On the one hand, it is intended as an introduction to satellite navigation using the *Global Positioning System* (GPS). The programming of a *Software Defined Radio* (SDR) is used to demonstrate how the radio signals sent by the GPS satellites can be received and processed. For this purpose, the text is structured in the style of an *interactive tutorial* (JupyterLab notebook) with short explanations and code examples.
+- On the one hand, it is intended as an introduction to satellite navigation using the *Global Positioning System* (GPS). The programming of a *Software Defined Radio* (SDR) is used to demonstrate how the radio signals sent by the GPS satellites can be received and processed. For this purpose, the text is structured in the style of an *interactive tutorial* (JupyterLab notebook) with short explanations and code examples. The systematic approach with step-by-step description of fundamentals and computer code is well suited as a accompanying material for introductory courses at colleges and universities.
   
 - On the other hand, the text shall serve as documentation of a Python program for real-time GPS tracking. The code is developed and commented on the basis of many examples and then integrated as Python classes into the scripts. The final program for real-time positioning and tracking has been published separately on Github: [https://github.com/annappo/GPS-SDR-Receiver](https://github.com/annappo/GPS-SDR-Receiver "GPS-SDR-Receiver").  
 
@@ -15,8 +15,7 @@ The tutorial is aimed in particular at people who
 - would like to carry out GPS tracking in real-time based on an SDR,
 - enjoy programming of devices.
 
-If you are not familiar with *JupyterLab*, you can start with the PDF version of the tutorial. Beginners are offered help with the installation of *Python* and *JupyterLab* in the appendix.
-
+If you are not familiar with *JupyterLab*, you can start with the PDF version of the tutorial. Beginners are offered help with the installation of *Python* and *JupyterLab* on Windows, Linux and MacOS in the appendix.
 
 ## Installation
 
